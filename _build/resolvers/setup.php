@@ -16,6 +16,10 @@ $packages = [
         'version' => '3.0.0-pl',
         'service_url' => 'modstore.pro',
     ],
+    'pdoTools' => [
+        'version' => '2.10.0-pl',
+        'service_url' => 'modstore.pro',
+    ],
 ];
 
 $downloadPackage = function ($src, $dst) {

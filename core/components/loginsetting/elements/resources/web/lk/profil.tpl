@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <input type="button"  class='btn btn-info' value="Обновить пароль" onclick="$(location).attr('href','smenit-parol.html');">
+                <a href="[[~106]]" class='btn btn-info'>Обновить пароль</a>
                 <input type="submit"  class='btn btn-primary' name="login-updprof-btn" value="Редактировать профиль">
             </form>
             
